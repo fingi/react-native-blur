@@ -1,4 +1,4 @@
-#import <React/RCTComponent.h>
+#import "RCTComponent.h"
 #import "BlurView.h"
 #import "VibrancyView.h"
 
